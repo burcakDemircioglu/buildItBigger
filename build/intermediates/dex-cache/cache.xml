@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/burcakdemircioglu/Desktop/FinalProject/libandroid/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/burcakdemircioglu/Desktop/FinalProject/libandroid/build/intermediates/pre-dexed/androidTest/debug/internal_impl-23.1.1-d4d795a0669ed0f46a539222fd8c0c8655b13952.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/Desktop/FinalProject/libandroid/build/intermediates/bundles/debug/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e01509b68d03454e94226c35b993487ff2c0227a">
+        <dex dex="/Users/burcakdemircioglu/Desktop/FinalProject/libandroid/build/intermediates/pre-dexed/androidTest/debug/classes-bca9e41aaf4bd4dbe739903810674efbadfc226e.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/Desktop/FinalProject/libandroid/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/burcakdemircioglu/Desktop/FinalProject/libandroid/build/intermediates/pre-dexed/androidTest/debug/classes-340452e0440be423f378d083261766efaea20095.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/burcakdemircioglu/Desktop/FinalProject/libandroid/build/intermediates/pre-dexed/androidTest/debug/support-annotations-23.1.1-9e05e375958e801f849db86730c6b13670c3a802.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/Desktop/FinalProject/libandroid/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/burcakdemircioglu/Desktop/FinalProject/libandroid/build/intermediates/pre-dexed/androidTest/debug/classes-fc8235aef036b479696de65e57739c52e747bd49.jar" />
+    </item>
+
+</items>
