@@ -17,7 +17,7 @@ import java.io.IOException;
 /**
  * Created by burcakdemircioglu on 19/02/16.
  */
-class EndpointsAsyncTask extends AsyncTask<Context, Void, String> {
+public class EndpointsAsyncTask extends AsyncTask<Context, Void, String> {
     private static MyApi myApiService = null;
     private Context context;
     String result;
@@ -28,7 +28,7 @@ class EndpointsAsyncTask extends AsyncTask<Context, Void, String> {
 
     Activity activity;
 
-    EndpointsAsyncTask(Activity context){
+    public EndpointsAsyncTask(Activity context){
         activity=context;
         ProgressBar progressBar=(ProgressBar)activity.findViewById(R.id.progressBar);
         progressBar.setVisibility(View.VISIBLE);
